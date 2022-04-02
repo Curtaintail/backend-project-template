@@ -13,7 +13,18 @@
 
 ## 4.Core function
 
+<details>
+  <summary>Details</summary>
+  <div markdown="1">
+    Details
+  </div>
+</details>
+
 ## 5.Core troubleshooting
 ### 5.1. 
 
-## Else(small problems)
+### 5.2.
+
+### 5.3.Small problems
+
+## 6. Review
