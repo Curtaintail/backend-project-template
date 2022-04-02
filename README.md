@@ -6,7 +6,7 @@
 - members(or personal project)
 
 ## 2.Tech stacks
-"Back-end"
+```Back-end```
 - Java 8(Also leave the version of the language or library you use)
 
 ## 3.ERD
